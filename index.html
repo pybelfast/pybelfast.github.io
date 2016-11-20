@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+  <p>
+  PyBelfast is a group for anyone with an interest in the Python progamming language. We are dedicated to the encouragement of all things to do with the Python programming language in Belfast. This involves helping each other, discussing topics and sharing information.
+  </p>
+
+
+  <h1 class="post-title">Meetings</h1>
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+        </h2>
+         
+      </li>
+
+    {% endfor %}
+  </ul>
+
+{% include pagination.html %}
