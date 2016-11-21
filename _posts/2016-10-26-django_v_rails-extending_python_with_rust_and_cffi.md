@@ -4,7 +4,7 @@ title:  "django v rails & extending python"
 categories: meetup django python 
 ---
 
-### Venu
+### Venue
 
 [FarsetLabs](http://www.farsetlabs.org.uk/)  
 

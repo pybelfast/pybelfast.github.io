@@ -4,7 +4,7 @@ title:  "async.io"
 categories: meetup async 
 ---
 
-### Venu
+### Venue
 
 [Rehabstudio](http://rehabstudio.com) Belfast
 
