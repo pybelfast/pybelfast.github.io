@@ -4,7 +4,7 @@ title:  "Websocket experiments in Flask"
 categories: flask websockets 
 ---
 
-### Venu
+### Venue
 
 [FarsetLabs](http://www.farsetlabs.org.uk/)  
 

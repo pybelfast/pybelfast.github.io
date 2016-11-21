@@ -4,7 +4,7 @@ title:  "factory_boy, behave & click"
 categories: factory_boy behave click 
 ---
 
-### Venu
+### Venue
 
 [ShopKeep](http://shopkeep.com) Belfast
 
