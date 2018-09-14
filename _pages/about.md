@@ -22,7 +22,7 @@ join the `#pybelfast` group. Just say 'hi!'.
 
 ## Organisers
 [Paddy Carey](http://www.twitter.com/paddycarey) and [Stephen
-McCullough](http://www.twitter.com/swmcc) are the organisers, you can find them
+McCullough](http://www.twitter.com/theonlyswmcc) are the organisers, you can find them
 on the slack channel.
 
 ## About this site
