@@ -10,7 +10,7 @@ programming projects and like to meet and talk about it.
 
 ## When do you meet?
 We try and meet bi-monthly however this varies. We keep a
-[meetup](http://www.meetup.com/pybelfast/) page for defentive information.
+[meetup](http://www.meetup.com/pybelfast/) page for definitive information.
 
 ## Can anyone talk?
 Yes we encourage people to talk. Drop by the slack channel and let us know, we
@@ -26,7 +26,7 @@ McCullough](http://www.twitter.com/theonlyswmcc) are the organisers, you can fin
 on the slack channel.
 
 ## About this site
-This site was created by [Stephen McCullough](http://swm.cc) using jekyll
+This site was created by [Stephen McCullough](http://swm.cc) using Jekyll
 (if you don't like it then please change it). Pull Requests for improvements
 are encouraged and welcomed. You can see a list of
 [issues](https://github.com/pybelfast/pybelfast.github.io/issues) if you want
