@@ -10,7 +10,7 @@ programming projects and like to meet and talk about it.
 
 ## When do you meet?
 We try and meet bi-monthly however this varies. We keep a
-[meetup](http://www.meetup.com/pybelfast/) page for defentive information.
+[meetup](http://www.meetup.com/pybelfast/) page for definitive information.
 
 ## Can anyone talk?
 Yes we encourage people to talk. Drop by the slack channel and let us know, we
