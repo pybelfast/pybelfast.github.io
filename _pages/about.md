@@ -17,7 +17,7 @@ Yes we encourage people to talk. Drop by the slack channel and let us know, we
 are a very welcoming bunch.
 
 ## You mentioned a slack channel?
-Pop into the [NI Tech & Design](http://nitech.herokuapp.com/) user group and
+Pop into the [Irish Tech Slack](http://irishtechcommunity.com/) user group and
 join the `#pybelfast` group. Just say 'hi!'.
 
 ## Organisers
