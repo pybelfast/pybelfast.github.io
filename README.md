@@ -2,11 +2,11 @@
 
 ## Description
 
-The website for pybelfast.org
+The website for the Belfast Python User Group
 
 ## Links
 
-[pybelfast.org](http://pybelfast.org)
+[pybelfast.github.io](https://pybelfast.github.io/)
 
 ## Development Info
 
@@ -14,7 +14,7 @@ The website for pybelfast.org
 
 ```
 bundle
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Yes it is ironic that a python user group is using [jekyll](http://www.jekyllrb.com) for their website. If
