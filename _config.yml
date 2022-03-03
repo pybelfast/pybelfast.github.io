@@ -42,3 +42,6 @@ sass:
 include: [_pages]
 
 plugins: [jekyll-paginate, jekyll-seo-tag]
+
+jekyll_compose:
+  auto_open: true
