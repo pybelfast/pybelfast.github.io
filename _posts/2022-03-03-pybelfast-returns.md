@@ -33,6 +33,11 @@ While we’re used to thinking of maps and charts as being two-dimensional repre
 
 > May include lasers.
 
+### How (not) to lie with data visualisation
+by Curtis Wilson
+
+Human brains are hard-wired to derive insights from what we see. Whenever we make a graph or chart or infographic we are trying to trick this system into understanding much more abstract information than “that apple looks good to eat” or “that tiger thinks I look good to eat”. A little insight into how our sense of sight works can help us create visualisations that express the underlying data as accurately as possible (or not, as the case may be).
+
 ## Lightning Talks
 
 If you wish to present a lightning talk, feel free to reach out via [Meetup](https://www.meetup.com/PyBelfast/) or using either [@pybelfast](https://twitter.com/pybelfast) on Twitter or Slack (We are on both the [NITech](nitech.slack.com) and [ITC](irishtechcommunity.slack.com) slacks)
