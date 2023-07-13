@@ -6,7 +6,7 @@ The website for the Belfast Python User Group
 
 ## Links
 
-[pybelfast.github.io](https://pybelfast.github.io/)
+[pybelfast.org](https://pybelfast.org/)
 
 ## Development Info
 
